@@ -600,6 +600,8 @@ header .nav-box-round .navbar-nav .nav-link:hover{
 }
 
 .bg-yellow{
+    background-image: url("../images/bg.JPG");
+    opacity: 0.5;
     background-color: #ffcd04;
 }
 
