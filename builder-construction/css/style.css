@@ -170,7 +170,7 @@ a.image{
 ====================================== */
 
 header a.logo img {
-    max-width: 160px;
+    /* max-width: 160px; */
     vertical-align: sub;
 }
 
